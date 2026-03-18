@@ -1,0 +1,26 @@
+Tên cột (Dataset),Câu hỏi tương ứng (Questionnaire),Ghi chú
+Gender,2. Gender,1= Male; 2= Female
+Age code,1. Age,Được mã hóa từ tuổi thực tế
+BMI,5. BMI,Tính từ Height (3) và Weight (4)
+Designation,Designation,Nằm ở phần thông tin chung (đầu trang)
+Specialization,Specialization,Nằm ở phần thông tin chung (đầu trang)
+Working_Place,Working Area,Nằm ở phần thông tin chung (đầu trang)
+Duration,Duration of Job,Nằm ở phần thông tin chung (đầu trang)
+Private_Practice,Private Practice,Nằm ở phần thông tin chung (đầu trang)
+Working_Hour,Working hour/day,Nằm ở phần thông tin chung (đầu trang)
+Weekly_Vacation,Weekly Vacation,Nằm ở phần thông tin chung (đầu trang)
+Marital_Status,6. Marital Status,"1= Single, 2= Married, 3= Divorced, 4= Widowed"
+Income,7. Monthly Income,Phân loại thu nhập theo mã (1-6)
+Family_members,8. No. of Family members,Mã hóa số lượng thành viên gia đình
+Liabilities,9. Is there any liabilities in your family?,1= Yes; 2= No
+Staying_with_Family,10. Are you living with your family?,1= Yes; 2= No
+Vacation_with_Family,11. Do you go for vacation with your family?,1= Sometimes; 2= Rarely; 3= Not at all
+Family_Functions,12. Do you able to attend all the family functions?,1= Sometimes; 2= Rarely; 3= Not very often
+Disappointing_Thing,13. The most disappointing thing in your job.,Mã hóa từ 1-4
+Feelings,14. What are your feelings to deal with patient?,Mã hóa từ 1-5
+Conflict,15. Do you have experienced any interpersonal conflict with your...,1= Co-workers; 2= Family members; 3= Both
+Dissatisfaction,16. Do you have any symptoms due to your job dissatisfaction?,Mã hóa từ 1-5
+Mental_Disturbances,17. How do you deal with your job-related mental disturbances?,Mã hóa từ 1-6
+Politics,18. Do you worry about the encounter of politics at your job sector?,1= Yes; 2= No
+Flexibility,19. Do you think other professions are more flexible at their job sector apart from yours?,1= Yes; 2= No
+Burn Out,Burnout Self-Test (15 câu hỏi phần cuối),Cột này là tổng điểm hoặc phân loại dựa trên 15 câu hỏi Burnout ở cuối Questionnaire
